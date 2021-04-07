@@ -1,8 +1,8 @@
-*/
-include at least one property with eachtype
+// String 
+var shopper = {
 
 
-string
+
 number
 Boolean
 Function called 
